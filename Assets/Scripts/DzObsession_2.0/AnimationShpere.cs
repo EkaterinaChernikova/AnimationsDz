@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class AnimationShpere : MonoBehaviour
 {
-    void Update()
+    private float _offset = -0.01f;
+
+    private void Update()
     {
         var positionForward = transform.position;
-        positionForward.z += -0.01f;
+        positionForward.z += _offset;
         transform.position = positionForward;
     }
 }

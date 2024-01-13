@@ -6,10 +6,12 @@ public class CubeMovement : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
-    void Update()
+    private float _offset = -0.01f;
+
+    private void Update()
     {
         var positionForward = transform.position;
-        positionForward.z += -0.01f;
+        positionForward.z += _offset;
         transform.position = positionForward;
 
         transform.Rotate(0, _speed, 0);
