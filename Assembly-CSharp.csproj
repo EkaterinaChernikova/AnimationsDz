@@ -54,9 +54,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Lession\PlayerFollow.cs" />
+    <Compile Include="Assets\Scripts\Anima.cs" />
     <Compile Include="Assets\Scripts\CubeMovement.cs" />
     <Compile Include="Assets\Scripts\AnimationShpere.cs" />
     <Compile Include="Assets\Scripts\Lession\Turn.cs" />
+    <Compile Include="Assets\Scripts\MoveSpeed.cs" />
     <Compile Include="Assets\Scripts\Lession\Test.cs" />
     <Compile Include="Assets\Scripts\AnimationCube.cs" />
     <Compile Include="Assets\Scripts\AnimationCapsule.cs" />

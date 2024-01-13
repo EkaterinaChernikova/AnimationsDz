@@ -352,6 +352,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"E:/Unity/Unity 2022.3.3f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/Unity/Unity 2022.3.3f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Anima.cs"
 "Assets/Scripts/AnimationCapsule.cs"
 "Assets/Scripts/AnimationCube.cs"
 "Assets/Scripts/AnimationShpere.cs"
@@ -359,6 +360,7 @@
 "Assets/Scripts/Lession/PlayerFollow.cs"
 "Assets/Scripts/Lession/Test.cs"
 "Assets/Scripts/Lession/Turn.cs"
+"Assets/Scripts/MoveSpeed.cs"
 -langversion:9.0
 
 /deterministic
