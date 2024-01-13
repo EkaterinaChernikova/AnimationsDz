@@ -53,13 +53,13 @@
     <UnityVersion>2022.3.3f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DzObsession_2.0\AnimationCube.cs" />
     <Compile Include="Assets\Scripts\Lession\PlayerFollow.cs" />
-    <Compile Include="Assets\Scripts\CubeMovement.cs" />
-    <Compile Include="Assets\Scripts\AnimationShpere.cs" />
+    <Compile Include="Assets\Scripts\DzObsession_2.0\AnimationCapsule.cs" />
     <Compile Include="Assets\Scripts\Lession\Turn.cs" />
+    <Compile Include="Assets\Scripts\DzObsession_2.0\AnimationShpere.cs" />
+    <Compile Include="Assets\Scripts\DzObsession_2.0\CubeMovement.cs" />
     <Compile Include="Assets\Scripts\Lession\Test.cs" />
-    <Compile Include="Assets\Scripts\AnimationCube.cs" />
-    <Compile Include="Assets\Scripts\AnimationCapsule.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
